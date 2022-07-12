@@ -1,0 +1,10 @@
+.card{
+    margin: 100px;
+}
+label{
+    text-align:start;
+    text-transform: uppercase;
+}
+button{
+    margin: 4px;
+}

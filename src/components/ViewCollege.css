@@ -1,0 +1,9 @@
+.contant{
+    margin: 100px;
+}
+table{
+    border: 2px solid black;
+}
+th{
+    text-transform: uppercase;
+}
